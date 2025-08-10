@@ -1,1 +1,1 @@
-# Lonely-Proxy
+# Lonely Proxy
