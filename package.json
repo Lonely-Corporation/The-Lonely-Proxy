@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ultraviolet-static": "file:Ultraviolet-Static"
+  }
+}
